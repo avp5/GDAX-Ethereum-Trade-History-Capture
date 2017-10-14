@@ -1,0 +1,1 @@
+Based on sample code and running with GDAX Python library available here https://github.com/danpaquin/gdax-python
